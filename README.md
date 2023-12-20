@@ -2,8 +2,8 @@
 - 👋 Hi, I'm Bao JiaCheng  
 - 📫 my email is baojch@shanghaitech.edu.cn /1397696700@qq.com  
 - 🔭 A CS student from ShanghaiTech~  
-- 🌱 I’m currently learning unity, vue, deep learning  
- 
+- 🌱 I’m currently learning unity, vue, deep learning × 摆烂ing  √
+-  
  
 <!-- 
 **baojiacheng/baojiacheng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
